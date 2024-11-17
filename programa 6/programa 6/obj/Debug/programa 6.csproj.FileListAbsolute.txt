@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa 6.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa_6.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa_6.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa 6.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa 6.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\bin\Debug\programa 6.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\bin\Debug\programa 6.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\bin\Debug\programa 6.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa 6.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 6\programa 6\obj\Debug\programa 6.pdb

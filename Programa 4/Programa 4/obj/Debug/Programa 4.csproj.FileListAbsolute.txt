@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa 4.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa_4.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa_4.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa 4.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa 4.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\bin\Debug\Programa 4.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\bin\Debug\Programa 4.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\bin\Debug\Programa 4.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa 4.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\Programa 4\Programa 4\obj\Debug\Programa 4.pdb
