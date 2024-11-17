@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\bin\Debug\proyecto 10.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\bin\Debug\proyecto 10.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\bin\Debug\proyecto 10.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto_10.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto_10.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto 10.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\proyecto 10\proyecto 10\obj\Debug\proyecto 10.pdb

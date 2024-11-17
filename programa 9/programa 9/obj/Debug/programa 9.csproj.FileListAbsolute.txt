@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa 9.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa_9.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa_9.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa 9.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa 9.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\bin\Debug\programa 9.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\bin\Debug\programa 9.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\bin\Debug\programa 9.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa 9.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 9\programa 9\obj\Debug\programa 9.pdb

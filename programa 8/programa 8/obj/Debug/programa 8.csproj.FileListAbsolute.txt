@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa 8.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa_8.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa_8.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa 8.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa 8.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\bin\Debug\programa 8.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\bin\Debug\programa 8.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\bin\Debug\programa 8.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa 8.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\programa 8\programa 8\obj\Debug\programa 8.pdb
