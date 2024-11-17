@@ -1,0 +1,10 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\bin\Debug\practica 14.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\bin\Debug\practica 14.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\bin\Debug\practica 14.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica 14.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica_14.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica_14.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica 14.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica 14.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica 14.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\visual studio\practica 14\practica 14\obj\Debug\practica 14.pdb
